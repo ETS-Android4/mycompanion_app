@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#8C9EFF"
+    android:background="@drawable/main"
     tools:context=".MainActivity">
 
     <TextView
@@ -13,44 +13,64 @@
         android:layout_height="wrap_content"
         android:text="E-Companion"
         android:textAlignment="center"
-        android:textColor="#5F1AD8"
+        android:textAllCaps="true"
+        android:textColor="#BC8563"
         android:textSize="48sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.475" />
+        app:layout_constraintVertical_bias="0.266" />
+
+    <TextView
+        android:layout_width="198dp"
+        android:layout_height="25dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:text="for engineers,by engineers"
+        android:textColor="#0C0C0C"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.924"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="242dp" />
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="402dp"
-        android:layout_height="206dp"
-        android:layout_marginBottom="16dp"
+        android:layout_width="183dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="636dp"
+        android:background="@android:color/transparent"
         android:text="Login"
         android:textAlignment="center"
-        android:textColor="#1B1A1A"
+        android:textColor="#817973"
         android:textSize="24sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintHorizontal_bias="0.07"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.547" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="402dp"
-        android:layout_height="206dp"
-        android:text="Sign Up"
-        android:textColor="#0C0C0C"
-        android:textSize="20sp"
+        android:layout_width="183dp"
+        android:layout_height="85dp"
+        android:background="@android:color/transparent"
+        android:text="register"
+        android:textAllCaps="true"
+        android:textColor="#817973"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintHorizontal_bias="0.929"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.975" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
