@@ -34,7 +34,6 @@
                     android:icon="@drawable/ic_baseline_share_24"
                     android:title="Share" />
 
-
-                <menu>
+                </menu>
                     </item>
     </menu>

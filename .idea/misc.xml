@@ -3,27 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/drawable/ic_book.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/drawable/ic_catalog.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/drawable/ic_home.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/drawable/ic_list.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/drawable/ic_profile.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_machine.xml" value="0.18229166666666666" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_main2.xml" value="0.33" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_main3.xml" value="0.18229166666666666" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_signup.xml" value="0.11639492753623189" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/headerfile.xml" value="0.18229166666666666" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/nav_header.xml" value="0.25" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/menu/drawer_menu.xml" value="0.16145833333333334" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_app2/app/src/main/res/menu/sidemenu.xml" value="0.33" />
-        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_machine.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_signup.xml" value="0.4" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_main2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/headerfile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/menu/drawer_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/menu/sidemenu.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2875" />
         <entry key="..\:/mycompanion/app/src/main/res/layout/activity_login.xml" value="0.1793478260869565" />
         <entry key="..\:/mycompanion/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
@@ -43,12 +30,5 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
-  </component>
-  <component name="VisualizationToolProject">
-    <option name="state">
-      <ProjectState>
-        <option name="scale" value="0.34375" />
-      </ProjectState>
-    </option>
   </component>
 </project>
