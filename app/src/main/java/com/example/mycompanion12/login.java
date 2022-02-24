@@ -88,7 +88,7 @@ public class login extends AppCompatActivity {
                                     // intent to home activity
                                     Intent intent
                                             = new Intent(login.this,
-                                            MainActivity.class);
+                                            MainActivity2.class);
                                     startActivity(intent);
                                 }
 
