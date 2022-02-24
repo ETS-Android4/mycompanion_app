@@ -67,7 +67,7 @@ public class login extends AppCompatActivity {
             return;
         }
 
-        // signin existing user
+        //signin existing user
         mAuth.signInWithEmailAndPassword(email, password)
                 .addOnCompleteListener(
                         new OnCompleteListener<AuthResult>() {
