@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mycompanion12">
         <activity
+            android:name=".cat1"
+            android:exported="false" />
+        <activity
             android:name=".pdfview"
             android:exported="false" />
         <activity
