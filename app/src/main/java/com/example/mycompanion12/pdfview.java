@@ -1,15 +1,10 @@
 package com.example.mycompanion12;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.swiperefreshlayout.widget.CircularProgressDrawable;
-
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.widget.ProgressBar;
-
 import com.github.barteksc.pdfviewer.PDFView;
-
 import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.io.InputStream;

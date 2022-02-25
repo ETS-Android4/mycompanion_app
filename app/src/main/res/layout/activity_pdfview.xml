@@ -7,7 +7,6 @@
         android:layout_height="match_parent"
     android:background="@drawable/back"
         tools:context=".pdfview">
-
         <com.github.barteksc.pdfviewer.PDFView
             android:id="@+id/abc"
             android:layout_width="match_parent"
