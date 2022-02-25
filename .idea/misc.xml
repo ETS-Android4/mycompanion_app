@@ -3,14 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_appfinal3/app/src/main/res/drawable/circle_border.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_appfinal3/app/src/main/res/drawable/grad.xml" value="0.1984375" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_appfinal3/app/src/main/res/layout/fragment_home.xml" value="0.18229166666666666" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_appfinal3/app/src/main/res/layout/fragment_search.xml" value="0.1" />
         <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_signup.xml" value="0.4" />
         <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2875" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_cat1.xml" value="0.1" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_main.xml" value="0.1484375" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_main2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_pdfview.xml" value="0.24662162162162163" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/activity_signup.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/fragment_favorites.xml" value="0.1" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/fragment_home.xml" value="0.14534883720930233" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/layout/fragment_search.xml" value="0.1484375" />
+        <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.290625" />
         <entry key="..\:/mycompanion/app/src/main/res/layout/activity_login.xml" value="0.1793478260869565" />
         <entry key="..\:/mycompanion/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
         <entry key="..\:/mycompanion/app/src/main/res/layout/activity_signup.xml" value="0.13020833333333334" />
@@ -18,10 +24,9 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.34375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/activity_pdfview.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/activity_signup.xml" value="0.34375" />
         <entry key="app/src/main/res/layout/content_signup.xml" value="0.34375" />
-        <entry key="app/src/main/res/layout/fragment_favorites.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_favorites.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.16354166666666667" />
