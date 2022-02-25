@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_appfinal3/app/src/main/res/drawable/circle_border.xml" value="0.1984375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_appfinal3/app/src/main/res/drawable/grad.xml" value="0.1984375" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_appfinal3/app/src/main/res/layout/fragment_home.xml" value="0.18229166666666666" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_appfinal3/app/src/main/res/layout/fragment_search.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/mycompanion_appfinal3/app/src/main/res/layout/fragment_search.xml" value="0.1" />
         <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/GOPIKA/AndroidStudioProjects/mycompanion_app/app/src/main/res/layout/activity_signup.xml" value="0.4" />
