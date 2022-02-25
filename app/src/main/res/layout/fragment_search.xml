@@ -99,8 +99,9 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="#fece2f"
                 android:text="Update"
-                android:background="#fece2f">
+                android:textColor="#455A64">
 
             </Button>
 
