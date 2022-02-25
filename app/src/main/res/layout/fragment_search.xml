@@ -132,9 +132,10 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#fece2f"
+                android:background="@android:color/black"
                 android:text="Update"
-                android:textColor="#455A64">
+
+                android:textColor="#81D4FA">
 
             </Button>
 
